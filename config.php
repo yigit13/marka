@@ -14,6 +14,6 @@ $db = new PDO('mysql:host=' . $config['db']['host'] . ';dbname=' . $config['db']
 die("Oh noes! There's an error in the query!");
 }
 
-
+//iyidir
 
 ?>

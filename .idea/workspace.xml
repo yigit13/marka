@@ -14,7 +14,7 @@
     <file path="/convert.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380371247271" ignored="false" />
     <file path="/a.dummy" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380370767976" ignored="false" />
     <file path="/convert2.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380387866395" ignored="false" />
-    <file path="/Dummy.txt" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380631710179" ignored="false" />
+    <file path="/Dummy.txt" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380633506515" ignored="false" />
     <file path="/DefactoParse.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380629069424" ignored="false" />
     <file path="/ModanisaParse.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380631445975" ignored="false" />
     <file path="$PROJECT_DIR$/../Marksa/php.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380631636498" ignored="false" />
@@ -38,94 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-0.7096774">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnmodaParse.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EnmodaParse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="5" selection-start="2663" selection-end="2663" vertical-scroll-proportion="-44.70968">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitattributes" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convert3.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/convert3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="-7.096774">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefactoParse.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefactoParse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="9" selection-start="345" selection-end="345" vertical-scroll-proportion="-9.225806">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModanisaParse.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ModanisaParse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.6756757">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parse.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convert.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/convert.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="175" selection-end="175" vertical-scroll-proportion="-8.5161295">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convert2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/convert2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.935484">
+            <state line="16" column="8" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4729064">
               <folding />
             </state>
           </provider>
@@ -155,12 +71,12 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/deneme.php" />
         <option value="$PROJECT_DIR$/convert.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/convert2.php" />
         <option value="$PROJECT_DIR$/convert3.php" />
         <option value="$PROJECT_DIR$/EnmodaParse.php" />
         <option value="$PROJECT_DIR$/DefactoParse.php" />
         <option value="$PROJECT_DIR$/ModanisaParse.php" />
+        <option value="$PROJECT_DIR$/config.php" />
       </list>
     </option>
   </component>
@@ -247,23 +163,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13/bin/git.exe" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="f0df2dc1-93e2-4a41-8045-bb548774c077">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="PHP Script.EnmodaParse.php">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -330,7 +235,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -338,7 +243,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22678763" sideWeight="0.67081445" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22945571" sideWeight="0.67081445" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -435,16 +340,12 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="5" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.027972028">
-          <folding />
-        </state>
+        <state line="43" column="5" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.027972028" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LidyanaParse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="10" selection-start="88" selection-end="88" vertical-scroll-proportion="2.909091">
-          <folding />
-        </state>
+        <state line="5" column="10" selection-start="88" selection-end="88" vertical-scroll-proportion="2.909091" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse.php">
@@ -456,35 +357,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/convert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="175" selection-end="175" vertical-scroll-proportion="-8.5161295">
+        <state line="12" column="22" selection-start="175" selection-end="175" vertical-scroll-proportion="0.3490909">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/convert2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.935484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="127" selection-end="127" vertical-scroll-proportion="-4.2580647">
+        <state line="14" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="0.41379312">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-0.7096774">
+        <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/convert3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="-7.096774">
+        <state line="10" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -497,32 +391,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EnmodaParse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="5" selection-start="2663" selection-end="2663" vertical-scroll-proportion="-44.70968">
+        <state line="99" column="5" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DefactoParse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="9" selection-start="345" selection-end="345" vertical-scroll-proportion="-9.225806">
+        <state line="13" column="9" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ModanisaParse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.6756757">
+        <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="-15.878788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4729064">
           <folding />
         </state>
       </provider>
