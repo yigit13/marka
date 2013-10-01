@@ -6,7 +6,7 @@ $config['db'] = array(
     'username'  =>  'admin',
     'password'  =>  'password',
     'dbname'    =>  'marka'
-);//selam hakan
+);//selam
 
 $db = new PDO('mysql:host=' . $config['db']['host'] . ';dbname=' . $config['db']['dbname'],$config['db']['username'],$config['db']['password'], array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
 
