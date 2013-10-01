@@ -38,10 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-0.7096774">
+            <state line="8" column="15" selection-start="173" selection-end="173" vertical-scroll-proportion="0.21621622">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModanisaParse.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ModanisaParse.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ModanisaParse.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.6756757">
+            <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="-17.741936">
               <folding />
             </state>
           </provider>
@@ -155,12 +155,12 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/deneme.php" />
         <option value="$PROJECT_DIR$/convert.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/convert2.php" />
         <option value="$PROJECT_DIR$/convert3.php" />
         <option value="$PROJECT_DIR$/EnmodaParse.php" />
         <option value="$PROJECT_DIR$/DefactoParse.php" />
         <option value="$PROJECT_DIR$/ModanisaParse.php" />
+        <option value="$PROJECT_DIR$/config.php" />
       </list>
     </option>
   </component>
@@ -454,27 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="175" selection-end="175" vertical-scroll-proportion="-8.5161295">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/convert2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.935484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="127" selection-end="127" vertical-scroll-proportion="-4.2580647">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-0.7096774">
@@ -522,7 +501,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ModanisaParse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.6756757">
+        <state line="142" column="5" selection-start="4896" selection-end="4896" vertical-scroll-proportion="-17.741936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="175" selection-end="175" vertical-scroll-proportion="-8.5161295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.935484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="15" selection-start="173" selection-end="173" vertical-scroll-proportion="0.21621622">
           <folding />
         </state>
       </provider>
