@@ -4,7 +4,7 @@
     <list default="true" id="7ce19f93-23ad-4579-a20d-3920a8c28496" name="Default" comment="" />
     <ignored path="marka.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380124358968" ignored="false" />
+    <file path="/index.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380634267008" ignored="false" />
     <file path="/parse.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380036268799" ignored="false" />
     <file path="/config.php" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380019925247" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="7ce19f93-23ad-4579-a20d-3920a8c28496" time="1380106882588" ignored="false" />
@@ -38,10 +38,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.3490909">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4729064">
+            <state line="16" column="0" selection-start="441" selection-end="449" vertical-scroll-proportion="-11.636364">
               <folding />
             </state>
           </provider>
@@ -68,7 +77,6 @@
         <option value="$PROJECT_DIR$/0_connect.php" />
         <option value="$PROJECT_DIR$/parse.php" />
         <option value="$PROJECT_DIR$/LidyanaParse.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/deneme.php" />
         <option value="$PROJECT_DIR$/convert.php" />
         <option value="$PROJECT_DIR$/convert2.php" />
@@ -77,6 +85,7 @@
         <option value="$PROJECT_DIR$/DefactoParse.php" />
         <option value="$PROJECT_DIR$/ModanisaParse.php" />
         <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -369,13 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/convert3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
@@ -421,7 +423,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4729064">
+        <state line="16" column="0" selection-start="441" selection-end="449" vertical-scroll-proportion="-11.636364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.3490909">
           <folding />
         </state>
       </provider>
